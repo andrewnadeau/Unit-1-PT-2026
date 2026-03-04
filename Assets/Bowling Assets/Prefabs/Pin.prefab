@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 585664478222427971}
   - component: {fileID: 8489500865013969944}
   - component: {fileID: 4196925844796863423}
+  - component: {fileID: 7051792827573967300}
   m_Layer: 0
   m_Name: Pin
   m_TagString: Untagged
@@ -141,3 +142,15 @@ MeshCollider:
   m_Convex: 1
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: d79ff3aa652321b4d8376b150dfb5aca, type: 3}
+--- !u!114 &7051792827573967300
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 585664478224431491}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5df1c62d6f323f649acb701b8cb8a66e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Pin
